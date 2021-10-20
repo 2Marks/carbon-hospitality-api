@@ -91,4 +91,4 @@ All the endpoints both have the same response structure as described below:
 <!-- POSTMAN COLLECTION LINK-->
 ## Kindly download the postman collection from the link below
 
-[Click to dowbload postman collection](https://www.getpostman.com/collections/95ea01b7bfcb86111cd6)
+[Click to download postman collection](https://www.getpostman.com/collections/95ea01b7bfcb86111cd6)
