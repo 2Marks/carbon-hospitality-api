@@ -19,7 +19,7 @@ export async function up(knex: Knex): Promise<void> {
     table.decimal("hourly_rate", 19, 2).notNullable().defaultTo(0);
     table.string("status").notNullable();
     table.timestamp("expected_checkin_time").notNullable();
-    table.timestamp("checkin_time").defaultTo(knex.fn.now());
+    table.timestamp("checkin_time").nullable();
     table
       .timestamp("expected_checkout_time")
       .notNullable()
