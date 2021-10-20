@@ -14,7 +14,7 @@ export class RoomController {
 
     return {
       data,
-      message: "Room created sucessfully",
+      message: "Room created successfully",
     };
   }
 
@@ -24,7 +24,7 @@ export class RoomController {
 
     return {
       data,
-      message: "Rooms fetched sucessfully",
+      message: "Rooms fetched successfully",
     };
   }
 
@@ -34,7 +34,7 @@ export class RoomController {
 
     return {
       data,
-      message: "Room fetched sucessfully",
+      message: "Room fetched successfully",
     };
   }
 }
