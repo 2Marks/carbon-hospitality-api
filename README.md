@@ -42,8 +42,15 @@ Test project to implement some set of API's for an hospitality reservation booki
    npm run dev
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Running Tests
 
+Kindly create a database name `carbon_hospitality_reservation_test`
+```sh
+Run Test: npm run test
+Run test coverage: npm run test:coverage
+```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### What has been covered.
 
