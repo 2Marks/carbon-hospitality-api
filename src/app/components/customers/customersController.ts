@@ -18,7 +18,7 @@ export class CustomerController {
 
     return {
       data,
-      message: "Customer created sucessfully",
+      message: "Customer created successfully",
     };
   }
 
@@ -28,7 +28,7 @@ export class CustomerController {
 
     return {
       data,
-      message: "Customers fetched sucessfully",
+      message: "Customers fetched successfully",
     };
   }
 
@@ -38,7 +38,7 @@ export class CustomerController {
 
     return {
       data,
-      message: "Customer fetched sucessfully",
+      message: "Customer fetched successfully",
     };
   }
 }
